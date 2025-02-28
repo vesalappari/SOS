@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/frontend/.angular/cache
+frontend/src/.DS_Store
+frontend/public/img/logo/.DS_Store
+frontend/public/img/.DS_Store
+frontend/public/.DS_Store
